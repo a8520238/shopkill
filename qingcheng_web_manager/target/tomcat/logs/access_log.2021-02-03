@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:16:34:03 +0800] "GET /brand/findAll HTTP/1.1" 404 977 http-bio-9101-exec-1 45
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:16:34:18 +0800] "GET /brand/findAll.do HTTP/1.1" 500 4166 http-bio-9101-exec-3 2034
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:16:55:51 +0800] "GET /brand/findAll.do HTTP/1.1" 500 4166 http-bio-9101-exec-1 2743
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:16:59:42 +0800] "GET /brand/findAll.do HTTP/1.1" 500 4166 http-bio-9101-exec-2 6
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:16:59:43 +0800] "GET /brand/findAll.do HTTP/1.1" 500 4166 http-bio-9101-exec-3 7
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:16:59:48 +0800] "GET / HTTP/1.1" 404 951 http-bio-9101-exec-4 5
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:16:59:51 +0800] "GET /brand/findAll.do HTTP/1.1" 500 4166 http-bio-9101-exec-6 7
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:17:01:44 +0800] "GET /brand/findAll.do HTTP/1.1" 500 4166 http-bio-9101-exec-1 1821
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:17:10:50 +0800] "GET /brand/findAll.do HTTP/1.1" 500 4166 http-bio-9101-exec-2 7
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:22:20:58 +0800] "GET /brand/findAll.do HTTP/1.1" 500 5639 http-bio-9101-exec-1 5494
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:22:27:45 +0800] "GET /brand/findAll.do HTTP/1.1" 500 5639 http-bio-9101-exec-1 4777
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:22:42:56 +0800] "GET /brand/findAll.do HTTP/1.1" 200 13821 http-bio-9101-exec-2 1980

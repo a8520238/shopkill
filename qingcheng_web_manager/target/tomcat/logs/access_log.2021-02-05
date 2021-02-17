@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [05/Feb/2021:16:16:41 +0800] "GET /brand/findPage.do?page=1&size=10 HTTP/1.1" 200 735 http-bio-9101-exec-1 6857
+0:0:0:0:0:0:0:1 - - [05/Feb/2021:16:16:46 +0800] "GET /brand/findPage.do?page=2&size=10 HTTP/1.1" 200 925 http-bio-9101-exec-3 45
+0:0:0:0:0:0:0:1 - - [05/Feb/2021:16:33:44 +0800] "GET /brand/findPage.do?page=2&size=10 HTTP/1.1" 200 925 http-bio-9101-exec-1 4261
+0:0:0:0:0:0:0:1 - - [05/Feb/2021:16:33:49 +0800] "GET /brand/findPage.do?page=&size=10 HTTP/1.1" 400 968 http-bio-9101-exec-2 11
+0:0:0:0:0:0:0:1 - - [05/Feb/2021:16:33:55 +0800] "GET /brand/findPage.do?page=1&size=10 HTTP/1.1" 200 735 http-bio-9101-exec-3 34
+0:0:0:0:0:0:0:1 - - [05/Feb/2021:16:42:18 +0800] "POST /brand/findList.do HTTP/1.1" 200 158 http-bio-9101-exec-6 532
